@@ -45,13 +45,25 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad08-dot&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=radical&langs_count=8)
+
+## 💻 Primary Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Muhammad08-dot/Muhammad08-dot/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg)
+
+<!-- Agar snake animation nahi chal rahi toh ye alternative use karo -->
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad08-dot&theme=react-dark&hide_border=true) -->
 
 ---
 

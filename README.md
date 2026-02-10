@@ -1,12 +1,16 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World!👋;Welcome+to+My+Profile!💻;Happy+to+See+You+Here!😀;Feel+Free+to+Look+Around!✌;Reach+Me+Out+If+You+Need+Me!🎨🙌;Have+a+Great+Day!🌞)](https://github.com/Muhammad08-dot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World!👋;Welcome+to+My+Profile!💻;ML+Explorer+|+Full-Stack+Developer;The+best+way+to+predict+the+future+is+to+build+it;Happy+to+See+You+Here!😀)](https://github.com/Muhammad08-dot)
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Hi there, I'm Muhammad! 👋
 
-### A Passionate Developer 🚀
+### ML Explorer | Full-Stack Developer 🚀
+
+**"The best way to predict the future is to build it."**
+
+🧠 **ML Beginner** | 🌐 **Web Dev Veteran**
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
@@ -14,11 +18,11 @@
 
 ## 🔭 About Me
 
-- 🌱 I'm currently learning **Full Stack Development**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Programming**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love coding and solving problems!**
+- 🌱 I'm currently learning **Machine Learning & AI**
+- 👯 I'm looking to collaborate on **ML Projects & Web Development**
+- 💬 Ask me about **Web Development, ML, Programming**
+- 📫 Reach me at: **mabdullahramday56@gmail.com**
+- ⚡ Fun fact: **From Web Dev to ML - Always learning, always building!**
 
 ---
 
@@ -30,6 +34,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -52,8 +58,7 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad08-dot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](mabdullahramday56@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullahramday56@gmail.com)
 
 ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 

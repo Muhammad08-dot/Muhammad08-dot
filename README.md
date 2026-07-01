@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning **Machine Learning & AI**
 - 👯 I'm looking to collaborate on **ML Projects & Web Development**
 - 💬 Ask me about **Web Development, ML, Programming**
-- 📫 Reach me at: **mabdullahramday56@gmail.com**
+- 📫 Reach me at: **mabdullahramday08@gmail.com**
 - ⚡ Fun fact: **From Web Dev to ML - Always learning, always building!**
 
 ---

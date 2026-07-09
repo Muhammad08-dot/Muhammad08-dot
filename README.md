@@ -20,9 +20,9 @@
 
 - 🌱 I'm currently learning **Machine Learning & AI**
 - 👯 I'm looking to collaborate on **ML Projects & Web Development**
-- 💬 Ask me about **Web Development, ML, Programming**
+- 💬 Ask me about **Web Development, AI ML, Agentic AI , Programming**
 - 📫 Reach me at: **mabdullahramday08@gmail.com**
-- ⚡ Fun fact: **From Web Dev to ML - Always learning, always building!**
+- ⚡ Fun fact: **From Web Dev to AI ML - Always learning, always building!**
 
 ---
 

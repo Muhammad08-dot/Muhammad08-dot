@@ -60,47 +60,6 @@ fun_fact: "From Web Dev to AI/ML — always learning, always building!"
 
 ---
 
-### 📌 Featured Projects
-
-<!--
-Tip: replace these with your real repos. Format:
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad08-dot&repo=REPO_NAME&theme=radical)](https://github.com/Muhammad08-dot/REPO_NAME)
--->
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad08-dot&repo=REPLACE_WITH_REPO_1&theme=radical)](https://github.com/Muhammad08-dot)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad08-dot&repo=REPLACE_WITH_REPO_2&theme=radical)](https://github.com/Muhammad08-dot)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad08-dot&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad08-dot&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
@@ -111,7 +70,9 @@ Tip: replace these with your real repos. Format:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60">
+</div>
 
 <div align="center">
 

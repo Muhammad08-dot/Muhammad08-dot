@@ -294,15 +294,23 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 </p>
 ---
 
-## 🏆 GitHub Achievements & Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=darkhub&margin-w=15&margin-h=15&column=4" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="trophies" />
+</p>
+
+---
+## 🎨 My Name in Code
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=%3E+MUHAMMAD_;%3E+ABDULLAH_;%3E+FULL_STACK+DEV;%3E+ML+EXPLORER" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Muhammad08-dot&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=MUHAMMAD+ABDULLAH;ML+%2B+FULL+STACK+DEV;PAKISTAN+%F0%9F%87%B5%F0%9F%87%B0" />
 </p>
+
 ---
 
 ## 🐍 Snake Animation

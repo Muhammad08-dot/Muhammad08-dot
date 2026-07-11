@@ -51,14 +51,16 @@
 - 📫 Reach me at: **mabdullahramday08@gmail.com**
 - ⚡ Fun fact: **From web dev to AI/ML — always learning, always building!**
 
-​```yaml
+<pre>
+<code>
 name: Muhammad Abdullah
 role: ML Explorer & Full-Stack Developer
 location: Pakistan 🇵🇰
 currently_learning: [Machine Learning, AI, Agentic Systems, LLMs]
 looking_to_collaborate: [ML Projects, Web Development, Open Source]
 motto: "Turning Ideas Into Code, One Commit at a Time"
-​
+</code>
+</pre>
 
 ---
 
@@ -295,7 +297,9 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  </a>
 </p>
 
 ---
@@ -317,4 +321,3 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 **Made with 💙 by Muhammad Abdullah**
 
 </div>
-

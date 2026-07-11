@@ -294,11 +294,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 </p>
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="trophies" />
-</p>
 
 ---
 

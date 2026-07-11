@@ -297,16 +297,19 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 ---
 
+---
+
 ## 🎨 My Name in Code
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=%3E+MUHAMMAD_;%3E+ABDULLAH_;%3E+FULL_STACK+DEV;%3E+ML+EXPLORER" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,100:003300&height=250&section=header&text=MUHAMMAD&fontSize=90&fontColor=00FF41&animation=fadeIn&fontAlignY=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=MUHAMMAD+ABDULLAH;ML+%2B+FULL+STACK+DEV;PAKISTAN+%F0%9F%87%B5%F0%9F%87%B0" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,100:0d1117&height=250&section=header&text=ABDULLAH&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
 
+---
 
 ---
 

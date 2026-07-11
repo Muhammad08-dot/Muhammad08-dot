@@ -58,7 +58,7 @@ location: Pakistan 🇵🇰
 currently_learning: [Machine Learning, AI, Agentic Systems, LLMs]
 looking_to_collaborate: [ML Projects, Web Development, Open Source]
 motto: "Turning Ideas Into Code, One Commit at a Time"
-​```
+​
 
 ---
 

@@ -294,14 +294,15 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=darkhub&margin-w=15&margin-h=15&column=4" alt="trophy" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Muhammad08-dot&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</p>
 ---
 
 ## 🐍 Snake Animation

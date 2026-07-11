@@ -292,7 +292,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad08-dot&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
-
 ---
 
 ## 🏆 GitHub Achievements & Stats

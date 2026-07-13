@@ -256,7 +256,7 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
---- / ---
+---
 
 ## 📊 GitHub Stats
 
@@ -289,7 +289,7 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 ## 🎨 My Name in Code
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=90&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=MUHAMMAD;ABDULLAH;%3C%2FCODER%3E" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%5B%22MUHAMMAD+ABDULLAH%22%5D%3B;const+coder+%3D+true%3B;%3C+DEVELOPER+%2F%3E&font=Fira+Code&center=true&width=1000&height=150&color=00F3FF&vCenter=true&size=50">
 </p>
 
 

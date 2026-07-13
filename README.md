@@ -110,9 +110,8 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -169,20 +168,17 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://www.cursor.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/leandromoreira/digital-style-guide/master/logo/cursor-logo.png" alt="cursor" width="40" height="40" style="background-color: white; border-radius: 4px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-# 💡 My Skills Set
+## 💡 My Skills Set
 
 <table>
 <tr>
@@ -222,9 +218,8 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" height="50" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="50" /></a>
+<a href="https://www.cursor.com/" target="_blank"><img src="https://raw.githubusercontent.com/leandromoreira/digital-style-guide/master/logo/cursor-logo.png" alt="Cursor" height="45" style="background-color: white; padding: 2px; border-radius: 4px;" /></a>
+<a href="https://pypi.org/project/antigravity/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Antigravity" height="45" /></a>
 </div>
 
 </td>
@@ -261,7 +256,7 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+--- / ---
 
 ## 📊 GitHub Stats
 

@@ -1,19 +1,50 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<!-- Profile Section with Picture -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%">
+        <img src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/main/me.jpeg" width="200" height="200" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
+      </td>
+      <td width="70%">
+        <h1>Hi 👋, I'm Muhammad Abdullah</h1>
+        <h3>A Passionate ML Explorer & Full-Stack Developer from Pakistan 🇵🇰</h3>
+        <p>
+          <strong>📍 Location:</strong> Islamabad, Pakistan<br/>
+          <strong>🎓 Education:</strong> BS-AI at NUML<br/>
+          <strong>💼 Status:</strong> Actively Learning & Building<br/>
+          <strong>📧 Email:</strong> mabdullahramday08@gmail.com
+        </p>
+        <p align="left">
+          <a href="https://github.com/Muhammad08-dot" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" />
+          </a>
+          <a href="https://linkedin.com/in/muhammad-abdullah-ramday" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+          </a>
+          <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+          </a>
+          <a href="https://muhammadabdullah08.netlify.app" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <!-- Greet Line -->
 <p align="center">
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
 </p>
 
-
-
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Intro -->
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A Passionate ML Explorer & Full-Stack Developer from Pakistan 🇵🇰</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -43,7 +74,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning, AI & Agentic Systems**
-- 💻 Check out my portfolio: [**muhammad08.vercel.app**](https://muhammad08.vercel.app)
+- 💻 Check out my portfolio: [**muhammadabdullah08.netlify.app**](https://muhammadabdullah08.netlify.app)
 - 👯 Looking to collaborate on **ML Projects & Web Development**
 - 💬 Ask me about **Web Dev, AI/ML, Agentic AI, Programming**
 - 📫 Reach me at: **mabdullahramday08@gmail.com**
@@ -74,7 +105,7 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://muhammad08.vercel.app" target="_blank">
+  <a href="https://muhammadabdullah08.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
   <a href="https://www.leetcode.com/" target="_blank">
@@ -284,6 +315,7 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad08-dot&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
+
 ---
 
 ## 🎨 My Name in Code
@@ -291,7 +323,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%5B%22MUHAMMAD+ABDULLAH%22%5D%3B;const+coder+%3D+true%3B;%3C+DEVELOPER+%2F%3E&font=Fira+Code&center=true&width=1000&height=150&color=00F3FF&vCenter=true&size=50">
 </p>
-
 
 ---
 

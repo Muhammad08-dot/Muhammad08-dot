@@ -141,8 +141,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -199,9 +197,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://www.cursor.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/leandromoreira/digital-style-guide/master/logo/cursor-logo.png" alt="cursor" width="40" height="40" style="background-color: white; border-radius: 4px;"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -249,8 +244,8 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://www.cursor.com/" target="_blank"><img src="https://raw.githubusercontent.com/leandromoreira/digital-style-guide/master/logo/cursor-logo.png" alt="Cursor" height="45" style="background-color: white; padding: 2px; border-radius: 4px;" /></a>
-<a href="https://pypi.org/project/antigravity/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Antigravity" height="45" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
 </div>
 
 </td>
@@ -329,7 +324,11 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---

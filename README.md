@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td width="70%">
-        <h1>Hi 👋, I'm Muhammad Abdullah</h1>
+        <h1>Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate ML Explorer & Full-Stack Developer from Pakistan 🇵🇰</h3>
         <p>
           <strong>📍 Location:</strong> Islamabad, Pakistan<br/>

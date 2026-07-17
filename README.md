@@ -6,11 +6,11 @@
   <table>
     <tr>
       <td width="70%">
-        <h1>Hi there👋, I'm Muhammad Abdullah</h1>
+        <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate ML Explorer & Full-Stack Developer from Pakistan 🇵🇰</h3>
         <p>
-          <strong>📍 Location:</strong> Islamabad, Pakistan<br/>
-          <strong>🎓 Education:</strong> BS-AI at NUML<br/>
+          <strong>📍 Location:</strong> Faisalabad, Pakistan<br/>
+          <strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>
           <strong>💼 Status:</strong> Actively Learning & Building<br/>
           <strong>📧 Email:</strong> mabdullahramday08@gmail.com
         </p>
@@ -75,12 +75,12 @@
 - 👯 Looking to collaborate on **ML Projects & Web Development**
 - 💬 Ask me about **Web Dev, AI/ML, Agentic AI, Programming**
 - 📫 Reach me at: **mabdullahramday08@gmail.com**
-- ⚡ Fun fact: **From web dev to AI/ML — always learning, always building!**
+- ⚡ Fun fact: **From web dev to AI/ML and now on Agentic AI — always learning, always building!**
 
 <pre>
 <code>
 name: Muhammad Abdullah
-role: ML Explorer & Full-Stack Developer
+role: ML Explorer & Full-Stack Developer & Agentic AI Explorer
 location: Pakistan 🇵🇰
 currently_learning: [Machine Learning, AI, Agentic Systems, LLMs]
 looking_to_collaborate: [ML Projects, Web Development, Open Source]
@@ -123,19 +123,21 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -155,15 +157,11 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+  
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -211,11 +209,9 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </div>
 
 </td>
@@ -241,7 +237,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
 </div>
 

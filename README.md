@@ -5,9 +5,6 @@
 <div align="center">
   <table>
     <tr>
-      <td width="30%">
-        <img src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/main/me.jpeg" width="200" height="200" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
-      </td>
       <td width="70%">
         <h1>Hi 👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate ML Explorer & Full-Stack Developer from Pakistan 🇵🇰</h3>

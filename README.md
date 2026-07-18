@@ -108,12 +108,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="https://www.leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" />
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="30" />
-  </a>
 </p>
 
 ---

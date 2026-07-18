@@ -299,14 +299,6 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 ---
 
-## 🎨 My Name in Code
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%5B%22MUHAMMAD+ABDULLAH%22%5D%3B;const+coder+%3D+true%3B;%3C+DEVELOPER+%2F%3E&font=Fira+Code&center=true&width=1000&height=150&color=00F3FF&vCenter=true&size=50">
-</p>
-
----
-
 ## 🐍 Snake Animation
 
 <p align="center">

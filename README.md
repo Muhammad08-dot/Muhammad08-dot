@@ -7,7 +7,7 @@
     <tr>
       <td width="70%">
         <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
-        <h3>A Passionate ML Explorer & Full-Stack Developer from Pakistan 🇵🇰</h3>
+        <h3>A Passionate ML Explorer & Agentic AI Explorer & Web Developer from Pakistan 🇵🇰</h3>
         <p>
           <strong>📍 Location:</strong> Faisalabad, Pakistan<br/>
           <strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>

@@ -80,7 +80,7 @@
 <pre>
 <code>
 name: Muhammad Abdullah
-role: ML Explorer & Full-Stack Developer & Agentic AI Explorer
+role: ML Explorer & Web Developer & Agentic AI Explorer
 location: Pakistan 🇵🇰
 currently_learning: [Machine Learning, AI, Agentic Systems, LLMs]
 looking_to_collaborate: [ML Projects, Web Development, Open Source]

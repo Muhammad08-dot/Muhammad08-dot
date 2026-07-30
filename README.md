@@ -24,7 +24,7 @@
           <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
           </a>
-          <a href="https://https://muhammad08.vercel.app/" target="_blank">
+          <a href="https://muhammad08.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
           </a>
         </p>
@@ -71,7 +71,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning, AI & Agentic Systems**
-- 💻 Check out my portfolio: [**muhammadabdullah08.netlify.app**](https://muhammadabdullah08.netlify.app)
+- 💻 Check out my portfolio: [**muhammad08.vercel.app**](https://muhammad08.vercel.app)
 - 👯 Looking to collaborate on **ML Projects & Web Development**
 - 💬 Ask me about **Web Dev, AI/ML, Agentic AI, Programming**
 - 📫 Reach me at: **mabdullahramday08@gmail.com**
@@ -102,7 +102,7 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://muhammadabdullah08.netlify.app" target="_blank">
+  <a href="https://muhammad08.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
   <a href="https://www.leetcode.com/" target="_blank">

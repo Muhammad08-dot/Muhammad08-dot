@@ -24,7 +24,7 @@
           <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
           </a>
-          <a href="https://muhammadabdullah08.netlify.app" target="_blank">
+          <a href="https://https://muhammad08.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
           </a>
         </p>

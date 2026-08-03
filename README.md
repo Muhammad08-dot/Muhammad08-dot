@@ -14,7 +14,6 @@
           <strong>💼 Status:</strong> Actively Learning & Building<br/>
           <strong>📧 Email:</strong> mabdullahramday08@gmail.com
         </p>
-        <p align="left">
           </a>
           <a href="https://linkedin.com/in/muhammad-abdullah-ramday" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />

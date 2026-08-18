@@ -32,11 +32,6 @@
 
 ---
 
-<!-- Greet Line -->
-<p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Building+Next-Gen+AI+Agents+🤖;Reach+Me+Out+If+You+Need+Me+🙌"></a>
-</p>
-
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -65,8 +60,7 @@
 - 🌱 Currently deep diving into **Agentic Systems, LLMs, and RAG architectures**
 - 🧠 Building and experimenting with **Multi-Agent Workflows**
 - 💻 Check out my portfolio: [**muhammad08.vercel.app**](https://muhammad08.vercel.app)
-- 👯 Looking to collaborate on **Open Source AI Projects & ML Research**
-- 💬 Ask me about **AI/ML, HuggingFace, RAG, PyTorch, LangChain**
+- 👯 Looking to collaborate on **Open Source Projects **
 - 📫 Reach me at: **mabdullahramday08@gmail.com**
 
 <pre>
@@ -107,7 +101,6 @@ motto: "Automating the future, one intelligent agent at a time"
   
   <!-- DevOps / Cloud -->
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -125,7 +118,6 @@ motto: "Automating the future, one intelligent agent at a time"
 <img src="https://img.shields.io/badge/RAG_Pipelines-58A6FF?style=for-the-badge&logoColor=white" alt="RAG" />
 <img src="https://img.shields.io/badge/LLM_Finetuning-FF9900?style=for-the-badge&logoColor=white" alt="LLMs" />
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-4ea94b?style=for-the-badge&logoColor=white" alt="Agents" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink" alt="LangChain" />
 </div>
 
 </td>
@@ -174,26 +166,6 @@ motto: "Automating the future, one intelligent agent at a time"
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Talk+is+cheap.+Show+me+the+code.;AI+will+not+replace+you.+A+person+using+AI+will.;The+future+belongs+to+those+who+build+it.&font=Fira+Code&center=true&width=600&height=50&color=58a6ff&size=20">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad08-dot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Muhammad08-dot GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muhammad08-dot&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad08-dot&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---

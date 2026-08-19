@@ -188,6 +188,5 @@ motto: "Automating the future, one intelligent agent at a time"
 
 ### ✨ *"The best way to predict the future is to build it."* — Peter Drucker
 
-**Made with 💙 by Muhammad Abdullah**
 
 </div>

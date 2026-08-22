@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=fff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=fff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20%7C%20Pakistan&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 # 🧑‍💻 Muhammad Abdullah
 
@@ -19,10 +19,11 @@
 
 <br>
 
+![Student](https://img.shields.io/badge/🎓_BS--AI-NUML-4169E1?style=for-the-badge&labelColor=00008B)
 ![Location](https://img.shields.io/badge/📍_Location-Faisalabad,_Pakistan-9370DB?style=for-the-badge&labelColor=4B0082)
-![Education](https://img.shields.io/badge/🎓_BS--AI-NUML-4169E1?style=for-the-badge&labelColor=00008B)
 ![Status](https://img.shields.io/badge/💼_Status-Actively_Learning_%26_Building-success?style=for-the-badge&labelColor=006400)
 ![Collaborations](https://img.shields.io/badge/🤝_Open_Source-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
+![Remote](https://img.shields.io/badge/🌍_Remote-Open_to-9370DB?style=for-the-badge&labelColor=4B0082)
 
 </div>
 
@@ -32,7 +33,7 @@
 
 ### 🧭 Quick Navigation
 
-[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#-ai--ml-tech-stack--tools) · [💡 Competencies](#-core-competencies) · [🎯 Currently Working On](#-currently-working-on) · [🐍 Snake](#-snake-animation)
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#-ai--ml-tech-stack--tools) · [🚀 Projects](#-featured-projects) · [💡 Competencies](#-core-competencies) · [🎯 Currently Working On](#-currently-working-on) · [🗺️ Roadmap](#️-2026-roadmap) · [🐍 Snake](#-snake-animation)
 
 </div>
 
@@ -62,15 +63,13 @@
 
 ---
 
+## ⭐ Repository Stars
+
 <div align="center">
 
+<img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
 <img src="https://komarev.com/ghpvc/?username=Muhammad08-dot&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<a href="https://github.com/Muhammad08-dot?tab=followers">
-  <img src="https://img.shields.io/github/followers/Muhammad08-dot?label=Followers&style=for-the-badge&color=58A6FF" />
-</a>
-<a href="https://github.com/Muhammad08-dot?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Stars&style=for-the-badge&color=FFD700" />
-</a>
+<img src="https://img.shields.io/github/followers/Muhammad08-dot?label=Followers&style=for-the-badge&color=58A6FF" />
 
 </div>
 
@@ -83,19 +82,28 @@
 ## 👋 About Me
 
 ```yaml
-name: Muhammad Abdullah
-role: Machine Learning & Agentic AI Engineer
-location: Faisalabad, Pakistan 🇵🇰
-education: BS-AI @ National University of Modern Languages (NUML)
+muhammad:
+  name:     "Muhammad Abdullah"
+  role:     "Machine Learning & Agentic AI Engineer"
+  location: "📍 Faisalabad, Pakistan 🇵🇰"
+  education: "BS-AI @ National University of Modern Languages (NUML)"
 
-focus:
-  - 🌱 Agentic Systems, LLMs, and RAG architectures
-  - 🧠 Multi-Agent Workflows
-  - 🔍 Semantic search & vector retrieval
+  focus:
+    - "🌱 Agentic Systems, LLMs, and RAG architectures"
+    - "🧠 Multi-Agent Workflows (LangGraph, AutoGen)"
+    - "🔍 Semantic search & vector retrieval"
+    - "⚙️ MLOps & model deployment"
 
-currently_learning: [Generative AI, Agentic Systems, RAG, MLOps]
-looking_to_collaborate: [AI Research, Open Source ML]
-motto: "Automating the future, one intelligent agent at a time"
+  stack:
+    languages: ["Python", "C++"]
+    ai_ml:     ["PyTorch", "TensorFlow", "Scikit-Learn", "Hugging Face", "LangChain"]
+    data:      ["Pandas", "NumPy", "OpenCV"]
+    vector_db: ["Pinecone", "ChromaDB"]
+    devOps:    ["Docker", "Git", "AWS"]
+
+  currently_learning:      ["Generative AI", "Agentic Systems", "RAG", "MLOps"]
+  looking_to_collaborate:  ["AI Research", "Open Source ML"]
+  motto: "Automating the future, one intelligent agent at a time"
 ```
 
 <div align="center">
@@ -113,6 +121,12 @@ motto: "Automating the future, one intelligent agent at a time"
 ## 🛠 AI / ML Tech Stack & Tools
 
 <div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,aws,git&theme=dark&perline=8" />
+</a>
+
+<br><br>
 
 **Core Languages**
 
@@ -142,13 +156,57 @@ motto: "Automating the future, one intelligent agent at a time"
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Core%20Competencies&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🚀 Featured Projects
+
+<!-- ─────────────────────────────────────────────────────────────────
+     HOW TO ADD A PROJECT:
+     Copy any row below, fill in:
+       - Name (bold, with emoji)
+       - One-line description
+       - Tech badges  →  ![Name](https://img.shields.io/badge/-Name-HEX?style=flat-square&logo=LOGO&logoColor=white)
+       - Live Demo    →  [Visit](URL)  or  —
+       - Source Code  →  [Repo](URL)  or  🔒 Private
+     Keep one row per project. Column order must match the header.
+     I couldn't pull your real repo list automatically — replace the
+     placeholder rows below with your actual projects (or send me the
+     names/links and I'll fill this table in for you).
+───────────────────────────────────────────────────────────────── -->
+
+### 🤖 AI / Agentic Systems
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 🧠 **[Your RAG project]** | One-line description of what it does and the problem it solves. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square) | — | [Repo](https://github.com/Muhammad08-dot) |
+| 🤝 **[Your multi-agent project]** | One-line description. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Muhammad08-dot) |
+
+### 📊 Machine Learning & Data
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 📈 **[Your ML project]** | One-line description. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | — | [Repo](https://github.com/Muhammad08-dot) |
+
+### 🌐 Web & Portfolio
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 💼 **Portfolio Site** | Personal portfolio showcasing projects and experience. | ![Vercel](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | [Visit](https://muhammad08.vercel.app) | [Repo](https://github.com/Muhammad08-dot) |
+
+> 💬 Send me your real project names, links, and one-line descriptions and I'll swap these placeholders for the finished table.
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Core%20Competencies&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 ## 💡 Core Competencies
@@ -194,7 +252,7 @@ motto: "Automating the future, one intelligent agent at a time"
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Currently%20Working%20On&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=Currently%20Working%20On&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 ## 🎯 Currently Working On
@@ -209,9 +267,90 @@ motto: "Automating the future, one intelligent agent at a time"
 
 </div>
 
+### 💡 What I'm Building
+
 ```mermaid
 graph TB
-    A[🎯 Focus Areas] --> B[🤖 Agentic AI]
+    A[💻 Current Focus] --> B[Agentic AI]
+    A --> C[RAG & Retrieval]
+    A --> D[Generative AI]
+    A --> E[MLOps & Cloud]
+
+    B --> B1[🤝 Multi-Agent Orchestration]
+    B --> B2[🔗 LangGraph / AutoGen]
+
+    C --> C1[📊 Vector Databases]
+    C --> C2[🔍 Semantic Search]
+
+    D --> D1[🧠 LLM Fine-tuning]
+    D --> D2[📝 NLP & Transformers]
+
+    E --> E1[🐳 Docker & CI/CD]
+    E --> E2[☁️ Model Deployment]
+
+    style A fill:#58A6FF,color:#fff
+    style B fill:#FF6B6B,color:#fff
+    style C fill:#4ECDC4,color:#fff
+    style D fill:#FFD93D,color:#000
+    style E fill:#1A1B27,color:#fff
+```
+
+---
+
+<div align="center">
+
+## 🌟 Skills & Interests
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 Currently Focused On</h3>
+      - 🔭 Building <strong>Agentic AI Systems</strong><br>
+      - 📊 Deepening <strong>RAG Architecture</strong><br>
+      - 🌱 Mastering <strong>LLM Fine-tuning</strong><br>
+      - 👯 Open to <strong>Open Source contributions</strong><br>
+      - 🤝 Seeking <strong>AI research collaborations</strong><br>
+      - ☁️ Exploring <strong>MLOps & Cloud Deployment</strong><br>
+      - 🔗 Learning <strong>LangGraph & AutoGen</strong>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Beyond Tech</h3>
+      - 📚 Reading about AI research trends<br>
+      - 🌍 Exploring world cultures<br>
+      - ⚽ Football — strategy & analytics<br>
+      - 📺 TV Series — storytelling art<br>
+      - 🎮 Gaming<br>
+      - 🧠 Cognitive science & how the mind learns
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 Always Learning</h3>
+      - 📚 Reading technical books<br>
+      - 🎯 Taking online courses<br>
+      - 🏗️ Building side projects<br>
+      - 🤝 Contributing to open source<br>
+      - 📝 Sharing knowledge<br>
+      - 🌱 Growing every day
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <em>*Always building, always learning — one intelligent agent at a time.*</em>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=2026%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🗺️ 2026 Roadmap
+
+```mermaid
+graph TB
+    A[🎯 2026 Focus Areas] --> B[🤖 Agentic AI]
     A --> C[📊 RAG & Retrieval]
     A --> D[🧠 Generative AI]
     A --> E[☁️ MLOps]
@@ -220,19 +359,19 @@ graph TB
     B --> B2[LangGraph / AutoGen]
 
     C --> C1[Vector Databases]
-    C --> C2[Semantic Search]
+    C --> C2[Semantic Search at Scale]
 
     D --> D1[LLM Fine-tuning]
     D --> D2[NLP & Transformers]
 
-    E --> E1[Docker & CI/CD]
-    E --> E2[Model Deployment]
+    E --> E1[CI/CD for ML]
+    E --> E2[Cloud Model Deployment]
 
-    style A fill:#58A6FF,color:#fff
-    style B fill:#FF6B6B,color:#fff
-    style C fill:#4ECDC4,color:#fff
-    style D fill:#FFD93D,color:#000
-    style E fill:#1A1B27,color:#fff
+    style A fill:#58A6FF,stroke:#3B82F6,color:#fff
+    style B fill:#FF6B6B,stroke:#E63946,color:#fff
+    style C fill:#4ECDC4,stroke:#35A29F,color:#fff
+    style D fill:#FFD93D,stroke:#F4C430,color:#000
+    style E fill:#1A1B27,stroke:#000000,color:#fff
 ```
 
 ---
@@ -246,7 +385,7 @@ graph TB
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=Snake%20Animation&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,24,20&height=70&section=header&text=Snake%20Animation&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 ## 🐍 Snake Animation
@@ -267,7 +406,7 @@ graph TB
 
 <br>
 
-### ✨ *"The best way to predict the future is to build it."* — Peter Drucker
+### 🌟 *"The best way to predict the future is to build it."* — Peter Drucker
 
 <br>
 

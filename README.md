@@ -1,150 +1,113 @@
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<!-- Profile Section with Picture -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="70%">
-        <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
-        <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
-        <p>
-          <strong>📍 Location:</strong> Faisalabad, Pakistan<br/>
-          <strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>
-          <strong>💼 Status:</strong> Actively Learning & Building<br/>
-          <strong>📧 Email:</strong> mabdullahramday08@gmail.com
-        </p>
-        <p>
-          <a href="https://linkedin.com/in/muhammad-abdullah-ramday" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-          </a>
-          <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-          </a>
-          <a href="https://muhammad08.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=fff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20%7C%20Pakistan&descAlignY=58&descSize=18&animation=fadeIn" />
+
+# 🧑‍💻 Muhammad Abdullah
+
+**AI/ML Engineer & Agentic AI Explorer** | Python · PyTorch · TensorFlow · LangChain · RAG
+
+<a href="https://github.com/Muhammad08-dot">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;AI+%26+Agentic+Systems;RAG+Architecture+Specialist;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullahramday08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-ramday)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad08.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad08-dot)
+
+![Student](https://img.shields.io/badge/🎓_BS--AI-NUML-4169E1?style=for-the-badge&labelColor=00008B)
+![Location](https://img.shields.io/badge/📍-Faisalabad,_Pakistan-9370DB?style=for-the-badge&labelColor=4B0082)
+![Collaborations](https://img.shields.io/badge/🤝_Open_Source-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
+
 </div>
 
 ---
 
-<!-- Hero Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 📊 GitHub Stats
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Muhammad08-dot">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Machine%20Learning%20Engineer;AI%20%26%20Agentic%20Systems;RAG%20Architecture%20Specialist;LLM%20%26%20Generative%20AI;Always%20Learning%2C%20Always%20Building&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
-  </a>
-</p>
+<div align="center">
 
-<!-- Profile Metrics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad08-dot&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <a href="https://github.com/Muhammad08-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/Muhammad08-dot?label=Followers&style=for-the-badge&color=58A6FF" />
-  </a>
-  <a href="https://github.com/Muhammad08-dot?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Stars&style=for-the-badge&color=FFD700" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad08-dot&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Muhammad08-dot&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad08-dot&theme=tokyonight&no-frame=true&row=1&column=4" width="48%" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-- 🌱 Currently deep diving into **Agentic Systems, LLMs, and RAG architectures**
-- 🧠 Building and experimenting with **Multi-Agent Workflows**
-- 💻 Check out my portfolio: [**muhammad08.vercel.app**](https://muhammad08.vercel.app)
-- 👯 Looking to collaborate on **Open Source Projects **
-- 📫 Reach me at: **mabdullahramday08@gmail.com**
-
-<pre>
-<code>
-name: Muhammad Abdullah
+```yaml
 role: Machine Learning & Agentic AI Engineer
-location: Pakistan 🇵🇰
+location: Faisalabad, Pakistan 🇵🇰
+education: BS-AI @ NUML
+focus: [Agentic Systems, RAG, Multi-Agent Workflows, LLMs]
 currently_learning: [Generative AI, Agentic Systems, RAG, MLOps]
-looking_to_collaborate: [AI Research, Open Source ML]
 motto: "Automating the future, one intelligent agent at a time"
-</code>
-</pre>
+```
 
 ---
 
-## 🛠 AI / ML Tech Stack & Tools
+## 🛠 Tech Stack
 
-<p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <!-- AI/ML Frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  
-  <!-- Vector Databases (RAG) -->
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-1E88E5?style=for-the-badge&logo=database&logoColor=white" />
-  
-  <!-- DevOps / Cloud -->
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,docker,aws,git&theme=dark&perline=8" />
+</a>
+
+<br><br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E88E5?style=for-the-badge&logo=database&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## 💡 Core Competencies
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<!-- ─────────────────────────────────────────────────────────────────
+     HOW TO ADD A PROJECT:
+     Copy any row from the relevant table below, fill in:
+       - Name (bold, with emoji)
+       - One-line description
+       - Tech badges  →  ![Name](https://img.shields.io/badge/-Name-HEX?style=flat-square&logo=LOGO&logoColor=white)
+       - Live Demo    →  [Visit](URL)  or  —
+       - Source Code  →  [Repo](URL)  or  🔒 Private
+     Keep one row per project. Column order must match the header.
+     Replace the placeholder rows below with your real projects (or
+     send me the names/links and I'll fill this table in for you).
+───────────────────────────────────────────────────────────────── -->
 
-### AI & Agentic Systems
+### 🤖 AI / Agentic Systems
 
-<div align="center">  
-<img src="https://img.shields.io/badge/RAG_Pipelines-58A6FF?style=for-the-badge&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/LLM_Finetuning-FF9900?style=for-the-badge&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-4ea94b?style=for-the-badge&logoColor=white" alt="Agents" />
-</div>
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 🧠 **[Your RAG project]** | One-line description of what it does and the problem it solves. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square) | — | [Repo](https://github.com/Muhammad08-dot) |
+| 🤝 **[Your multi-agent project]** | One-line description. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) | — | [Repo](https://github.com/Muhammad08-dot) |
 
-</td>
-<td valign="top" width="33%">
+### 📊 Machine Learning & Data
 
-### Machine Learning
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 📈 **[Your ML project]** | One-line description. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | — | [Repo](https://github.com/Muhammad08-dot) |
+| 🔍 **[Your NLP / vision project]** | One-line description. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | — | [Repo](https://github.com/Muhammad08-dot) |
 
-<div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-</div>
+### 🌐 Web & Portfolio
 
-</td>
-<td valign="top" width="33%">
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 💼 **Portfolio Site** | Personal portfolio showcasing projects and experience. | ![Vercel](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | [Visit](https://muhammad08.vercel.app) | [Repo](https://github.com/Muhammad08-dot) |
 
-### Data Engineering & Cloud
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
-</div>
-
-</td>
-</tr>
-</table>
+> 💬 Send me your real project names, links, and one-line descriptions and I'll swap these placeholders for the finished table.
 
 ---
 
@@ -152,25 +115,16 @@ motto: "Automating the future, one intelligent agent at a time"
 
 <div align="center">
 
-| 🧠 Generative AI | 🤖 Agentic Frameworks | 📊 Retrieval-Augmented Gen |
+| 🧠 Generative AI | 🤖 Agentic Frameworks | 📊 RAG |
 |:---:|:---:|:---:|
-| Fine-tuning LLMs | Autonomous Agents | Vector Databases |
-| NLP & Transformers | Multi-Agent Orchestration | Semantic Search |
-| Vision Models | LangGraph & AutoGen | RAG Pipelines |
+| LLM Fine-tuning | Multi-Agent Orchestration | Vector Databases |
+| NLP & Transformers | LangGraph & AutoGen | Semantic Search |
 
 </div>
 
 ---
 
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Talk+is+cheap.+Show+me+the+code.;AI+will+not+replace+you.+A+person+using+AI+will.;The+future+belongs+to+those+who+build+it.&font=Fira+Code&center=true&width=600&height=50&color=58a6ff&size=20">
-</p>
-
----
-
-## 🐍 Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -182,11 +136,16 @@ motto: "Automating the future, one intelligent agent at a time"
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
-### ✨ *"The best way to predict the future is to build it."* — Peter Drucker
+### 🌟 *"The best way to predict the future is to build it."* — Peter Drucker
 
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullahramday08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-ramday)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad08-dot)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&fontAlignY=75" />
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad08-dot&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>

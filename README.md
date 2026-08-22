@@ -1,7 +1,3 @@
-<!-- Matrix Background Animation -->
-<div align="center">
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-</div>
 
 <div align="center">
 

@@ -1,6 +1,6 @@
-Matrix Background Animation -->[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
-<div align="center">
+<div align="center"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58,166,255,0,0&height=200&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=fff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architectures&descAlignY=58&descSize=18&animation=fadeIn" />
 

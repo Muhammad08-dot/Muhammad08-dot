@@ -148,20 +148,18 @@
 **Ready to build the future together? Let's connect and create something amazing!**
 
 <a href="https://www.linkedin.com/in/muhammad-abdullah-ramday/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eiman Tahir"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammad-abdullah-ramday"/>
  </a>
   
- <a href="https://www.instagram.com/.ig/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Uday Sharma" />
- </a> 
-    <a href="https://topmate.io/" target="blank">
-  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
- </a>
-   <a href="mabdullahramday08@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Uday Sharma" />
- </a> 
+  <a href="https://www.instagram.com/m.abdullah_ramday08/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+          </a>
+    
+   <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+          </a>
  <a href="https://github.com/Muhammad08-dot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Eiman Tahir" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad08-dot" />
  </a>
 
 

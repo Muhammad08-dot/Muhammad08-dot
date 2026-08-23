@@ -36,11 +36,11 @@
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-- **Currently Working On:** AI ML ,Agentic Systems, LLMs ,RAG architectures and Gen AI </br> 
-- **Expert In:** AI & ML , production-ready AI workflows, and Multi-Agent Workflows  </br> 
-- **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems  </br> 
-- **Ask Me About:** AI ML, agentic AI solutions, production AI workflows </br> 
-- **Education:** 5TH Semester  AI student at National University of Modern Languages (NUML),Faisalabad Campus   </br> 
+- **Currently Working On:** AI ML and Gen AI </br> 
+- **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
+- **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
+- **Ask Me About:** AI/LLM engineering, agentic AI solutions, production AI workflows </br> 
+- **Education:** 5TH Semester  AI student at National University of Modern Languages , Fsd Campus   </br> 
 - **Location:** Faisalabad, Pakistan
 
 ---

@@ -95,7 +95,7 @@
 ### 🗄️ AI Frameworks:
 <img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
 <img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="LangGraph" />
-<img src="https://simpleicons.org" width="40" alt="Pydantic" />
+<img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="Pydantic-AI" />
 
 
 ### 🗄️ Databases:
@@ -109,19 +109,8 @@
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
 
-
 </div>
-
 ---
-
-
----
-
-
-
-
----
-
 
 ### 💬 Random Dev Quote
 

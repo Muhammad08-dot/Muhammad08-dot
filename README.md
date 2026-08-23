@@ -119,6 +119,13 @@
 
 ---
 
+## 🎡 Current Focus
+
+- **Expertise:** Production-ready AI workflows and agentic ai systems for SaaS scaling
+- **Development:** Intelligent automation systems and advanced ML & RAG architectures
+- **Focus:** LangGraph , LangChain & Crew-AI powered solutions  
+- **Collaboration:** Open to impactful AI projects & startup scaling solutions & open source contribution 
+
 
 ## 📫 Let's Connect!
 

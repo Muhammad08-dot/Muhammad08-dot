@@ -10,11 +10,6 @@
         <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
         <p>
-<strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>
-          <strong>💼 Status:</strong> Actively Learning & Building<br/>
-          <strong>📧 Email:</strong> mabdullahramday08@gmail.com
-        </p>
-        <p>
           <a href="https://linkedin.com/in/muhammad-abdullah-ramday" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
           </a>

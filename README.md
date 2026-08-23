@@ -23,15 +23,13 @@
 
 <!-- Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad08-dot&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <a href="https://github.com/Muhammad08-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/Muhammad08-dot?label=Followers&style=for-the-badge&color=58A6FF" />
-  </a>
-  <a href="https://github.com/Muhammad08-dot?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Stars&style=for-the-badge&color=FFD700" />
-  </a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=eimantahir027">
+</a>
+<a href="https://github.com/EimanTahir071?tab=followers"><img src="https://img.shields.io/github/followers/eimantahir027?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
+</div>
 ---
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 

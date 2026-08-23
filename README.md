@@ -9,7 +9,6 @@
         <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
         <p>
----
 
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

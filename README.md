@@ -54,113 +54,77 @@
 </p>
 
 ---
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
-## 🧑‍💻 About Me
+> *"If you want to be the best, you have to work more than the rest."*
 
-- 🌱 Currently deep diving into **Agentic Systems, LLMs, and RAG architectures**
-- 🧠 Building and experimenting with **Multi-Agent Workflows**
-- 💻 Check out my portfolio: [**muhammad08.vercel.app**](https://muhammad08.vercel.app)
-- 👯 Looking to collaborate on **Open Source Projects **
-- 📫 Reach me at: **mabdullahramday08@gmail.com**
-
-<pre>
-<code>
-name: Muhammad Abdullah
-role: Machine Learning & Agentic AI Engineer
-location: Pakistan 🇵🇰
-currently_learning: [Generative AI, Agentic Systems, RAG, MLOps]
-looking_to_collaborate: [AI Research, Open Source ML]
-motto: "Automating the future, one intelligent agent at a time"
-</code>
-</pre>
+- **Currently Working On:** AI ML ,Agentic Systems, LLMs ,RAG architectures and Gen AI </br> 
+- **Expert In:** AI & ML , production-ready AI workflows, and Multi-Agent Workflows  </br> 
+- **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems  </br> 
+- **Ask Me About:** AI ML, agentic AI solutions, production AI workflows </br> 
+- **Education:** 5TH Semester  AI student at National University of Modern Languages (NUML),Faisalabad Campus   </br> 
+- **Location:** Faisalabad, Pakistan
 
 ---
-
-## 🛠 AI / ML Tech Stack & Tools
-
-<p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <!-- AI/ML Frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  
-  <!-- Vector Databases (RAG) -->
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-1E88E5?style=for-the-badge&logo=database&logoColor=white" />
-  
-  <!-- DevOps / Cloud -->
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 💡 Core Competencies
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### AI & Agentic Systems
-
-<div align="center">  
-<img src="https://img.shields.io/badge/RAG_Pipelines-58A6FF?style=for-the-badge&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/LLM_Finetuning-FF9900?style=for-the-badge&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-4ea94b?style=for-the-badge&logoColor=white" alt="Agents" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Machine Learning
-
-<div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Data Engineering & Cloud
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Currently Working On
-
+## 🛠️ Tech Stack & Skills
 <div align="center">
 
-| 🧠 Generative AI | 🤖 Agentic Frameworks | 📊 Retrieval-Augmented Gen |
-|:---:|:---:|:---:|
-| Fine-tuning LLMs | Autonomous Agents | Vector Databases |
-| NLP & Transformers | Multi-Agent Orchestration | Semantic Search |
-| Vision Models | LangGraph & AutoGen | RAG Pipelines |
+### 💻 Programming Languages:
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+
+<img src="https://skillicons.dev/icons?i=c,dart" width="90" />
+
+### 🌐 Frontend Development:
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="300" />
+
+### ⚙️ Backend Development:
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs," width="400" />
+
+### 🤖 AI & Machine Learning:
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch," width="224" />
+<img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" />
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
+
+### 🗄️ AI Frameworks:
+<img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="LangGraph" />
+<img src="https://simpleicons.org" width="40" alt="Pydantic" />
+
+
+### 🗄️ Databases:
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase,supabase" width="400" />
+
+
+### 🔧 Tools & Technologies:
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
+
 
 </div>
 
 ---
+
+
+---
+
+
+
+
+---
+
 
 ### 💬 Random Dev Quote
 
@@ -169,7 +133,17 @@ motto: "Automating the future, one intelligent agent at a time"
 </p>
 
 ---
+##  📊 Pacman contribution animation :
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+</div>
+
+---
 ## 🐍 Snake Animation
 
 <p align="center">
@@ -182,6 +156,33 @@ motto: "Automating the future, one intelligent agent at a time"
 
 ---
 
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Ready to build the future together? Let's connect and create something amazing!**
+
+<a href="https://www.linkedin.com/in/muhammad-abdullah-ramday/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eiman Tahir"/>
+ </a>
+  
+ <a href="https://www.instagram.com/.ig/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Uday Sharma" />
+ </a> 
+    <a href="https://topmate.io/" target="blank">
+  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
+ </a>
+   <a href="mabdullahramday08@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Uday Sharma" />
+ </a> 
+ <a href="https://github.com/Muhammad08-dot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Eiman Tahir" />
+ </a>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=100&section=footer" />
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">

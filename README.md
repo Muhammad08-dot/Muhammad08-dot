@@ -161,7 +161,14 @@
  <a href="https://github.com/Muhammad08-dot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad08-dot" />
  </a>
-
+<a href="https://muhammad08.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=100&section=footer" />

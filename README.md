@@ -82,7 +82,6 @@
 
 ### 🗄️ AI Frameworks:
 <img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="LangGraph" />
 <img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="Pydantic-AI" />
 
 

@@ -9,23 +9,6 @@
         <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
         <p>
-          <a href="https://linkedin.com/in/muhammad-abdullah-ramday" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-          </a>
-          <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-          </a>
-          <a href="https://www.instagram.com/m.abdullah_ramday08/" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-          </a>
-          <a href="https://muhammad08.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

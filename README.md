@@ -64,12 +64,12 @@
 
 ### 🌐 Frontend Development:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="300" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="300" />
 
 ### ⚙️ Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="400" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express," width="400" />
 
 
 ### 🤖 AI & Machine Learning:
@@ -118,17 +118,7 @@
 </div>
 
 ---
-## 🐍 Snake Animation
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
 
 ## 📫 Let's Connect!
 

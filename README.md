@@ -1,6 +1,7 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+---
 <!-- Profile Section with Picture -->
 <div align="center">
   <table>
@@ -9,8 +10,7 @@
         <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
         <p>
-          <strong>📍 Location:</strong> Faisalabad, Pakistan<br/>
-          <strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>
+<strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>
           <strong>💼 Status:</strong> Actively Learning & Building<br/>
           <strong>📧 Email:</strong> mabdullahramday08@gmail.com
         </p>
@@ -29,8 +29,6 @@
     </tr>
   </table>
 </div>
-
----
 
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

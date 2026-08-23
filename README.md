@@ -9,6 +9,28 @@
         <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
         <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
         <p>
+          <strong>📍 Location:</strong> Faisalabad, Pakistan<br/>
+          <strong>🎓 Education:</strong> BS-AI at National University of Modern Languages NUML<br/>
+          <strong>💼 Status:</strong> Actively Learning & Building<br/>
+          <strong>📧 Email:</strong> mabdullahramday08@gmail.com
+        </p>
+        <p>
+          <a href="https://linkedin.com/in/muhammad-abdullah-ramday" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+          </a>
+          <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+          </a>
+          <a href="https://muhammad08.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -30,10 +52,9 @@
     <img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Stars&style=for-the-badge&color=FFD700" />
   </a>
 </p>
----
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 
-About Me 
+---
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
 > *"If you want to be the best, you have to work more than the rest."*
 
@@ -90,9 +111,21 @@ About Me
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
+
+
 </div>
 
 ---
+
+
+---
+
+
+
+
+---
+
+
 ### 💬 Random Dev Quote
 
 <p align="center">
@@ -100,7 +133,6 @@ About Me
 </p>
 
 ---
-
 ##  📊 Pacman contribution animation :
 
 <div align="center">
@@ -111,6 +143,16 @@ About Me
   </picture>
 </div>
 
+---
+## 🐍 Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 

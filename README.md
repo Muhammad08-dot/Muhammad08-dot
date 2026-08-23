@@ -1,7 +1,6 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
----
 <!-- Profile Section with Picture -->
 <div align="center">
   <table>

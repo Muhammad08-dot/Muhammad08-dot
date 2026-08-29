@@ -12,10 +12,7 @@
 </p>
 
 <div align="center">
-
-<h1>AoA! I'm Muhammad Abdullah</h1>
-<h3>A Passionate AI/ML Engineer & Agentic AI Specialist from Pakistan 🇵🇰</h3>
-
+<h1>AoA! hi there</h1>
 </div>
 
 <!-- Hero Banner -->

@@ -36,10 +36,10 @@
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-- 🔭 **Currently Working On:** AI/ML, Agentic AI, and Generative AI Architectures.
-- ⚡ **Core Competencies:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems.
-- 🤝 **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems.
-- 🎓 **Education:** 5th Semester BS-AI at National University of Modern Languages (NUML), Faisalabad Campus.
+- 🔭 **Currently Working On:** Advanced Machine Learning, Agentic AI, and Generative AI Architectures.
+- ⚡ **Core Competencies:** LLM Engineering, production-ready AI workflows, and intelligent automation systems.
+- 🤝 **Looking to Collaborate:** Enterprise AI applications, full-stack LLM platforms, and smart automation systems.
+- 🎓 **Education:** BS in Artificial Intelligence (5th Semester) — National University of Modern Languages (NUML), Faisalabad.
 - 📍 **Location:** Faisalabad, Pakistan (Open to Remote / Global roles)
 
 ---
@@ -49,15 +49,25 @@
 <div align="center">
 
 ### 💻 Programming Languages:
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,dart" height="45" alt="Languages" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="48" width="48" alt="Python" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" width="48" alt="JavaScript" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="48" width="48" alt="TypeScript" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="48" width="48" alt="C++" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" height="48" width="48" alt="C" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="48" width="48" alt="Java" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" height="48" alt="Dart" />
+</p>
 
 ### 🤖 AI & Machine Learning:
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="45" alt="ML Frameworks" /> <br><br>
-<img src="https://cdn.simpleicons.org/numpy/013243" height="45" width="45" alt="NumPy" /> &nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas" /> &nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" width="45" alt="Hugging Face" /> &nbsp;
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45" width="45" alt="OpenCV" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="48" alt="ML Frameworks" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" width="45" alt="NumPy" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" width="45" alt="Hugging Face" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45" width="45" alt="OpenCV" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" />
+</p>
 
 ### 🗄️ AI Frameworks & Orchestration:
 <p align="center">
@@ -68,29 +78,32 @@
 
 ### ⚙️ Backend Development:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" height="45" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" height="48" alt="Backend" />
 </p>
 
 ### 🌐 Frontend Development:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="45" alt="Frontend" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="48" width="48" alt="React" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="48" alt="Frontend" />
 </p>
 
 ### 🗄️ Databases & Vector DBs:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase" height="45" alt="Databases" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="48" width="48" alt="MySQL" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,supabase" height="48" alt="Databases" />
 </p>
 
 ### 🚀 DevOps & Version Control:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="45" alt="DevOps" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="48" width="48" alt="Docker" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes,git,github" height="48" alt="DevOps" />
 </p>
 
 ### 🔧 Tools & Intelligent Automation:
 <p align="center">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="45" width="45" alt="n8n" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45" width="45" alt="Streamlit" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="45" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="48" alt="Tools" />
 </p>
 
 </div>
@@ -119,10 +132,10 @@
 
 ## 🎡 Current Focus
 
-- **Expertise:** Production-ready AI workflows and agentic AI systems for scalable SaaS products.
+- **Expertise:** Production-ready AI workflows and Agentic AI systems for scalable SaaS products.
 - **Development:** Intelligent automation systems and advanced ML & RAG architectures.
 - **Focus:** LangGraph, LangChain & CrewAI powered solutions.
-- **Collaboration:** Open to impactful AI projects, startup scaling solutions & open source contributions.
+- **Collaboration:** Open to high-impact AI collaborations, startup MVP scaling, and Open-Source contributions.
 
 ---
 
@@ -130,7 +143,7 @@
 
 <div align="center">
 
-**Ready to build the future together? Let's connect and create something amazing!**
+**Ready to build the future of AI together? Let's connect and create something amazing!**
 
 <br>
 

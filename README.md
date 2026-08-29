@@ -1,10 +1,6 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<div align="center">
-
-</div>
-
 <!-- Animated Name Typing (Retro Terminal Font) -->
 <p align="center">
   <a href="https://github.com/Muhammad08-dot">
@@ -87,6 +83,19 @@
 
 ---
 
+## `> C:\Users\Abdullah> dir projects\`
+
+```bash
+[Directory of C:\Users\Abdullah\projects]
+
+📁 Agentic-RAG-Pipeline   --> Advanced retrieval pipeline with reranking and self-correction.
+📁 Multi-Agent-Automator  --> Intelligent business workflows orchestrated via LangGraph & CrewAI.
+📁 ML-Inference-API       --> High-performance, production-ready ML API built using FastAPI.
+📁 Custom-LLM-Chatbot     --> Context-aware chat system with custom prompt routing.
+```
+
+---
+
 ### 💬 `> echo $DEV_QUOTE`
 
 <p align="center">
@@ -115,6 +124,20 @@ Development:    Intelligent automation systems & advanced ML & RAG architectures
 Focus:          LangGraph, LangChain & CrewAI powered solutions
 Collaboration:  Open to high-impact AI collabs, startup MVP scaling & Open-Source
 ```
+
+---
+
+## `> C:\Users\Abdullah> fetch github_stats.sh`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad08-dot&show_icons=true&theme=matrix&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&border_color=39FF14" alt="Abdullah's GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=matrix&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&border_color=39FF14" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad08-dot&theme=matrix&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" alt="GitHub Streak" height="180" />
+</p>
 
 ---
 

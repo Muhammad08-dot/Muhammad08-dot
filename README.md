@@ -3,16 +3,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║     >> SYSTEM BOOTING... [ V2.0.0 ]                                  ║
-║     >> LOADING USER PROFILE...                                       ║
-║     >> STATUS: ACTIVE [ OK ]                                         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <!-- Animated Name Typing (Retro Terminal Font) -->

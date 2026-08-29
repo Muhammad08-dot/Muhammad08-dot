@@ -1,46 +1,42 @@
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<!-- Profile Header -->
-<div align="center">
-  <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
-  <h3>A Passionate AI/ML Engineer & Agentic AI Specialist from Pakistan 🇵🇰</h3>
-</div>
-
-<!-- Hero Banner -->
+<!-- Header Banner with Matrix Vibe -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!-- Typing Animation -->
+<!-- Title Section -->
+<div align="center">
+  <h1>AoA! I'm Muhammad Abdullah 👋</h1>
+  <h3>AI & Agentic Systems Engineer | Applied GenAI Specialist</h3>
+  <p align="center">Building production-grade LLM workflows, multi-agent systems, and intelligent automation.</p>
+</div>
+
+<!-- Typing Animation (Clean Tech Font) -->
 <p align="center">
   <a href="https://github.com/Muhammad08-dot">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Machine%20Learning%20Engineer;AI%20%26%20Agentic%20Systems;RAG%20Architecture%20Specialist;LLM%20%26%20Generative%20AI;Always%20Learning%2C%20Always%20Building&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20%26%20Agentic%20Systems%20Engineer;RAG%20Architecture%20Specialist;LLM%20%26%20Generative%20AI%20Developer;Always%20Learning%2C%20Always%20Building&font=Share+Tech+Mono&center=true&width=1000&height=100&color=58a6ff&vCenter=true&size=38">
   </a>
 </p>
 
 <!-- Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad08-dot&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad08-dot&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />&nbsp;
   <a href="https://github.com/Muhammad08-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/Muhammad08-dot?label=Followers&style=for-the-badge&color=58A6FF" />
-  </a>
+    <img src="https://img.shields.io/github/followers/Muhammad08-dot?label=Followers&style=flat-square&color=58A6FF" />
+  </a>&nbsp;
   <a href="https://github.com/Muhammad08-dot?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Stars&style=for-the-badge&color=FFD700" />
+    <img src="https://img.shields.io/github/stars/Muhammad08-dot?label=Stars&style=flat-square&color=FFD700" />
   </a>
 </p>
 
 ---
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
+## ⚡ About Me
 
-> *"If you want to be the best, you have to work more than the rest."*
-
-- 🔭 **Currently Working On:** Advanced Machine Learning, Agentic AI, and Generative AI Architectures.
-- ⚡ **Core Competencies:** LLM Engineering, production-ready AI workflows, and intelligent automation systems.
-- 🤝 **Looking to Collaborate:** Enterprise AI applications, full-stack LLM platforms, and smart automation systems.
-- 🎓 **Education:** BS in Artificial Intelligence (5th Semester) — National University of Modern Languages (NUML), Faisalabad.
-- 📍 **Location:** Faisalabad, Pakistan (Open to Remote / Global roles)
+- 🔭 **Currently Focusing On:** Advanced Multi-Agent Frameworks, Custom RAG Architectures, and Scalable GenAI.
+- ⚙️ **Core Competencies:** Designing production-ready AI workflows, LLM orchestration, and smart automation pipelines.
+- 🤝 **Collaboration Interest:** Full-stack AI platforms, custom LLM agents, and SaaS automations.
+- 🎓 **Education:** BS in Artificial Intelligence (5th Semester) — National University of Modern Languages (NUML), Fsd.
+- 📍 **Location:** Faisalabad, Pakistan (Available for Remote & Hybrid Roles)
 
 ---
 
@@ -48,76 +44,69 @@
 
 <div align="center">
 
-### 💻 Programming Languages:
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="48" width="48" alt="Python" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" width="48" alt="JavaScript" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="48" width="48" alt="TypeScript" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="48" width="48" alt="C++" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="48" width="48" alt="Java" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" height="48" alt="Dart" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="45" width="45" alt="Python" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="45" width="45" alt="JavaScript" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="45" width="45" alt="TypeScript" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="45" width="45" alt="C++" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" height="45" width="45" alt="C" /> &nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" height="45" width="45" alt="Java" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="Dart" />
 </p>
 
-### 🤖 AI & Machine Learning:
+### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="48" alt="ML Frameworks" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" width="45" alt="NumPy" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" width="45" alt="Hugging Face" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45" width="45" alt="OpenCV" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="45" alt="ML" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" width="42" alt="NumPy" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="42" width="42" alt="Pandas" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" width="42" alt="Hugging Face" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="42" width="42" alt="OpenCV" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="42" width="42" alt="Matplotlib" />
 </p>
 
-### 🗄️ AI Frameworks & Orchestration:
+### 🗄️ AI Frameworks & Orchestration
 <p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/white" height="45" width="45" alt="LangChain" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langgraph/white" height="45" width="45" alt="LangGraph" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/crewai/white" height="45" width="45" alt="CrewAI" />
+  <img src="https://cdn.simpleicons.org/langchain/white" height="42" width="42" alt="LangChain" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/white" height="42" width="42" alt="LangGraph" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/crewai/white" height="42" width="42" alt="CrewAI" />
 </p>
 
-### ⚙️ Backend Development:
+### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" height="48" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" height="45" alt="Backend" />
 </p>
 
-### 🌐 Frontend Development:
+### 🌐 Frontend Development
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="48" width="48" alt="React" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="48" alt="Frontend" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="45" width="45" alt="React" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="45" alt="Frontend" />
 </p>
 
-### 🗄️ Databases & Vector DBs:
+### 🗄️ Databases & Vector DBs
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="48" width="48" alt="MySQL" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,supabase" height="48" alt="Databases" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="45" width="45" alt="MySQL" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,supabase" height="45" alt="Databases" />
 </p>
 
-### 🚀 DevOps & Version Control:
+### 🚀 DevOps & Version Control
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="48" width="48" alt="Docker" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes,git,github" height="48" alt="DevOps" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="45" width="45" alt="Docker" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes,git,github" height="45" alt="DevOps" />
 </p>
 
-### 🔧 Tools & Intelligent Automation:
+### 🔧 Tools & Workflow Automation
 <p align="center">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="45" width="45" alt="n8n" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45" width="45" alt="Streamlit" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="48" alt="Tools" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" width="42" alt="n8n" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" width="42" alt="Streamlit" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="45" alt="Tools" />
 </p>
 
 </div>
 
 ---
 
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Talk+is+cheap.+Show+me+the+code.;AI+will+not+replace+you.+A+person+using+AI+will.;The+future+belongs+to+those+who+build+it.&font=Fira+Code&center=true&width=600&height=50&color=58a6ff&size=20">
-</p>
-
----
-
-## 📊 Pacman Contribution Animation
+## 📊 Activity & Contributions
 
 <div align="center">
   <picture>
@@ -129,12 +118,11 @@
 
 ---
 
-## 🎡 Current Focus
+## 🎡 What I'm Up To
 
-- **Expertise:** Production-ready AI workflows and Agentic AI systems for scalable SaaS products.
-- **Development:** Intelligent automation systems and advanced ML & RAG architectures.
-- **Focus:** LangGraph, LangChain & CrewAI powered solutions.
-- **Collaboration:** Open to high-impact AI collaborations, startup MVP scaling, and Open-Source contributions.
+- **Core Focus:** Building production-grade, deterministic Agentic AI solutions.
+- **RAG Architecture:** Optimizing advanced retrieval setups (parent-document, hybrid search, self-RAG).
+- **Automation:** Leveraging LangGraph & CrewAI for multi-agent execution paths.
 
 ---
 
@@ -142,7 +130,7 @@
 
 <div align="center">
 
-**Ready to build the future of AI together? Let's connect and create something amazing!**
+**Have an interesting project or role? Let's discuss how AI can drive it forward.**
 
 <br>
 
@@ -165,10 +153,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 <div align="center">
 

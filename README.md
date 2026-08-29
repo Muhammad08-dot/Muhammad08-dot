@@ -83,15 +83,69 @@
 
 ---
 
-## `> C:\Users\Abdullah> dir projects\`
+## `> C:\Users\Abdullah> dir projects\ --summary`
 
 ```bash
-[Directory of C:\Users\Abdullah\projects]
+[Scanning 90+ repositories across 8 directories...]
+```
 
-📁 Agentic-RAG-Pipeline   --> Advanced retrieval pipeline with reranking and self-correction.
-📁 Multi-Agent-Automator  --> Intelligent business workflows orchestrated via LangGraph & CrewAI.
-📁 ML-Inference-API       --> High-performance, production-ready ML API built using FastAPI.
-📁 Custom-LLM-Chatbot     --> Context-aware chat system with custom prompt routing.
+### 🧠 Agentic AI & Multi-Agent Systems `[9 repos]`
+```bash
+📁 autonomous-research-agent        --> Multi-Agent Crew with self-reflection & long-term memory.
+📁 advanced-multi-agent-system      --> Production dashboard for LangGraph, CrewAI & CAMEL.
+📁 ai_fraud_investigation_agent     --> Multi-agent Pydantic AI fraud scoring (7 dimensions).
+```
+
+### 🗄️ RAG & Retrieval Systems `[10 repos]`
+```bash
+📁 Docu-Mind-AI                     --> Enterprise Multilingual RAG (BM25 + Semantic + Qdrant).
+📁 omni-rag-engine                  --> Real-Time Multimodal Video Search (Whisper + CLIP).
+📁 codebase-rag-assistant           --> Advanced RAG for chatting with entire codebases.
+```
+
+### 🤖 LLM Engineering & Fine-Tuning `[5 repos]`
+```bash
+📁 llm-finetuning-pipeline          --> Memory-efficient fine-tuning (HuggingFace + PEFT/LoRA).
+📁 ai-red-teaming-framework         --> Autonomous LLM security & robustness testing.
+📁 on-device-private-ai-assistant   --> 100% offline privacy-first AI with local LLMs.
+```
+
+### 🚀 Production AI Applications `[12 repos]`
+```bash
+📁 khidmat_app                      --> Pakistan's AI economy platform (7-agent Gemini system).
+📁 Medora_AI                        --> Bilingual Hospital LMS with Gemini 2.5 AI briefs.
+📁 kisan-sahayak-ai                 --> Multilingual AI Advisor for Crop Disease & Irrigation.
+```
+
+### 🎙️ Voice, Vision & Multimodal AI `[9 repos]`
+```bash
+📁 omni-agent                       --> Voice-controlled Desktop Assistant (Push-to-Talk).
+📁 ai_blog_to_podcast_agent         --> Blog-to-Podcast via Gemini 2.5 + ElevenLabs.
+📁 missing-person-finder            --> Facial Recognition & Vector Search across CCTV.
+```
+
+### 📊 Machine Learning & Data Science `[10 repos]`
+```bash
+📁 predictive-maintenance-ml        --> Random Forest on IoT sensor data.
+📁 federated-learning-simulation    --> Privacy-preserving ML with PyTorch.
+📁 rl-stock-trader                  --> Deep RL stock trader (Ray RLlib + PyTorch).
+```
+
+### 🌐 Full-Stack & Frontend `[4 repos]`
+```bash
+📁 personal_portfolio_              --> AI Engineer portfolio (React 19 + Three.js).
+📁 nextjs-saas-dashboard            --> Premium SaaS dashboard (Next.js + TailwindCSS).
+```
+
+### 🌍 Open Source Contributions `[27 repos]`
+```bash
+📁 pytorch                          --> Core deep learning framework by Meta.
+📁 supabase-py                      --> Python client for Supabase.
+📁 optuna                           --> Hyperparameter optimization framework.
+```
+
+```bash
+[Total: 90+ repos | github.com/Muhammad08-dot]
 ```
 
 ---

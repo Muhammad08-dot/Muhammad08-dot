@@ -40,14 +40,13 @@
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-- **Currently Working On:** AI ML , Agentic AI and  Gen AI </br> 
+- **Currently Working On:** AI ML ,Agentic AI ,Gen AI </br> 
 - **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
 - **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
-- **Education:** 5TH Semester  AI student at National University of Modern Languages , Fsd Campus   </br> 
+- **Education:** 5TH Semester of BS-AI student at National University of Modern Languages (NUML) ,Fsd Campus   </br> 
 - **Location:** Faisalabad, Pakistan
 
 ---
-
 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
@@ -66,10 +65,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" width="300" />
 
 ### ⚙️ Backend Development:
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express," width="400" />
-
 
 ### 🤖 AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch," width="224" />
@@ -86,8 +82,7 @@
 
 ### 🗄️ Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase,supabase" width="400" />
-
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,supabase" width="400" />
 
 ### 🔧 Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />

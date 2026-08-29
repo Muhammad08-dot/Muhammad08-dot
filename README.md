@@ -54,7 +54,6 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" height="48" width="48" alt="JavaScript" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="48" width="48" alt="TypeScript" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="48" width="48" alt="C++" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" height="48" width="48" alt="C" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/java-icon.svg" height="48" width="48" alt="Java" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=dart" height="48" alt="Dart" />
 </p>

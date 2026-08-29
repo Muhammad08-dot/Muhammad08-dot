@@ -1,17 +1,16 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!-- Profile Section with Picture -->
+<!-- Profile Header -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="70%">
-        <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
-        <h3>A Passionate AI/ML Engineer & Agentic AI Explorer from Pakistan 🇵🇰</h3>
-        <p>
+  <h1>AoA! Hi there👋, I'm Muhammad Abdullah</h1>
+  <h3>A Passionate AI/ML Engineer & Agentic AI Specialist from Pakistan 🇵🇰</h3>
+</div>
 
 <!-- Hero Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -33,66 +32,69 @@
 
 ---
 
-
-
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-- **Currently Working On:** AI ML ,Agentic AI ,Gen AI </br> 
-- **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
-- **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
-- **Education:** 5TH Semester of BS-AI student at National University of Modern Languages (NUML) ,Fsd Campus   </br> 
-- **Location:** Faisalabad, Pakistan
+- 🔭 **Currently Working On:** AI/ML, Agentic AI, and Generative AI Architectures.
+- ⚡ **Core Competencies:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems.
+- 🤝 **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems.
+- 🎓 **Education:** 5th Semester BS-AI at National University of Modern Languages (NUML), Faisalabad Campus.
+- 📍 **Location:** Faisalabad, Pakistan (Open to Remote / Global roles)
 
 ---
 
 ## 🛠️ Tech Stack & Skills
+
 <div align="center">
 
 ### 💻 Programming Languages:
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" alt="C++" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-
-<img src="https://skillicons.dev/icons?i=c,dart" width="90" />
-
-### 🌐 Frontend Development:
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="300" />
-
-### ⚙️ Backend Development:
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express," width="400" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,dart" height="45" alt="Languages" />
 
 ### 🤖 AI & Machine Learning:
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch," width="224" />
-<img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
-<img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" />
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="45" alt="ML Frameworks" /> <br><br>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45" width="45" alt="NumPy" /> &nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas" /> &nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" width="45" alt="Hugging Face" /> &nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45" width="45" alt="OpenCV" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" />
 
-### 🗄️ AI Frameworks:
-<img src="https://cdn.simpleicons.org/langchain/white" width="40" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/langgraph/white" width="40" alt="Pydantic-AI" />
+### 🗄️ AI Frameworks & Orchestration:
+<p align="center">
+  <img src="https://cdn.simpleicons.org/langchain/white" height="45" width="45" alt="LangChain" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/white" height="45" width="45" alt="LangGraph" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/crewai/white" height="45" width="45" alt="CrewAI" />
+</p>
 
+### ⚙️ Backend Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" height="45" alt="Backend" />
+</p>
 
-### 🗄️ Databases:
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,firebase,supabase" width="400" />
+### 🌐 Frontend Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="45" alt="Frontend" />
+</p>
 
-### 🔧 Tools & Technologies:
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
+### 🗄️ Databases & Vector DBs:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase" height="45" alt="Databases" />
+</p>
 
 ### 🚀 DevOps & Version Control:
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" width="220" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="45" alt="DevOps" />
+</p>
+
+### 🔧 Tools & Intelligent Automation:
+<p align="center">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="45" width="45" alt="n8n" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45" width="45" alt="Streamlit" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="45" alt="Tools" />
+</p>
+
 </div>
+
 ---
 
 ### 💬 Random Dev Quote
@@ -102,7 +104,8 @@
 </p>
 
 ---
-##  📊 Pacman contribution animation :
+
+## 📊 Pacman Contribution Animation
 
 <div align="center">
   <picture>
@@ -116,11 +119,12 @@
 
 ## 🎡 Current Focus
 
-- **Expertise:** Production-ready AI workflows and agentic ai systems for SaaS scaling
-- **Development:** Intelligent automation systems and advanced ML & RAG architectures
-- **Focus:** LangGraph , LangChain & Crew-AI powered solutions  
-- **Collaboration:** Open to impactful AI projects & startup scaling solutions & open source contribution 
+- **Expertise:** Production-ready AI workflows and agentic AI systems for scalable SaaS products.
+- **Development:** Intelligent automation systems and advanced ML & RAG architectures.
+- **Focus:** LangGraph, LangChain & CrewAI powered solutions.
+- **Collaboration:** Open to impactful AI projects, startup scaling solutions & open source contributions.
 
+---
 
 ## 📫 Let's Connect!
 
@@ -128,34 +132,34 @@
 
 **Ready to build the future together? Let's connect and create something amazing!**
 
+<br>
+
 <a href="https://www.linkedin.com/in/muhammad-abdullah-ramday/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammad-abdullah-ramday"/>
- </a>
-  
-  <a href="https://www.instagram.com/m.abdullah_ramday08/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-          </a>
-    
-   <a href="mailto:mabdullahramday08@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-          </a>
- <a href="https://github.com/Muhammad08-dot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad08-dot" />
- </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a> &nbsp;
+<a href="mailto:mabdullahramday08@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
+</a> &nbsp;
+<a href="https://www.instagram.com/m.abdullah_ramday08/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
+</a> &nbsp;
+<a href="https://github.com/Muhammad08-dot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a> &nbsp;
 <a href="https://muhammad08.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfolio" />
+</a>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <div align="center">
 
 ### ✨ *"The best way to predict the future is to build it."* — Peter Drucker
-
 
 </div>

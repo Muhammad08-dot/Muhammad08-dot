@@ -127,20 +127,6 @@ Collaboration:  Open to high-impact AI collabs, startup MVP scaling & Open-Sourc
 
 ---
 
-## `> C:\Users\Abdullah> fetch github_stats.sh`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad08-dot&show_icons=true&theme=matrix&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&border_color=39FF14" alt="Abdullah's GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad08-dot&layout=compact&theme=matrix&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&border_color=39FF14" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad08-dot&theme=matrix&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" alt="GitHub Streak" height="180" />
-</p>
-
----
-
 ## `> C:\Users\Abdullah> ./connect.sh`
 
 <div align="center">

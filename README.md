@@ -91,57 +91,57 @@
 
 ### 🧠 Agentic AI & Multi-Agent Systems `[9 repos]`
 ```bash
-📁 autonomous-research-agent        --> Multi-Agent Crew with self-reflection & long-term memory.
-📁 advanced-multi-agent-system      --> Production dashboard for LangGraph, CrewAI & CAMEL.
-📁 ai_fraud_investigation_agent     --> Multi-agent Pydantic AI fraud scoring (7 dimensions).
+📁 [autonomous-research-agent](https://github.com/Muhammad08-dot/autonomous-research-agent)        --> Multi-Agent Crew with self-reflection & long-term memory.
+📁 [advanced-multi-agent-system](https://github.com/Muhammad08-dot/advanced-multi-agent-system)      --> Production dashboard for LangGraph, CrewAI & CAMEL.
+📁 [ai_fraud_investigation_agent](https://github.com/Muhammad08-dot/ai_fraud_investigation_agent)     --> Multi-agent Pydantic AI fraud scoring (7 dimensions).
 ```
 
 ### 🗄️ RAG & Retrieval Systems `[10 repos]`
 ```bash
-📁 Docu-Mind-AI                     --> Enterprise Multilingual RAG (BM25 + Semantic + Qdrant).
-📁 omni-rag-engine                  --> Real-Time Multimodal Video Search (Whisper + CLIP).
-📁 codebase-rag-assistant           --> Advanced RAG for chatting with entire codebases.
+📁 [Docu-Mind-AI](https://github.com/Muhammad08-dot/Docu-Mind-AI)                     --> Enterprise Multilingual RAG (BM25 + Semantic + Qdrant).
+📁 [omni-rag-engine](https://github.com/Muhammad08-dot/omni-rag-engine)                  --> Real-Time Multimodal Video Search (Whisper + CLIP).
+📁 [codebase-rag-assistant](https://github.com/Muhammad08-dot/codebase-rag-assistant)           --> Advanced RAG for chatting with entire codebases.
 ```
 
 ### 🤖 LLM Engineering & Fine-Tuning `[5 repos]`
 ```bash
-📁 llm-finetuning-pipeline          --> Memory-efficient fine-tuning (HuggingFace + PEFT/LoRA).
-📁 ai-red-teaming-framework         --> Autonomous LLM security & robustness testing.
-📁 on-device-private-ai-assistant   --> 100% offline privacy-first AI with local LLMs.
+📁 [llm-finetuning-pipeline](https://github.com/Muhammad08-dot/llm-finetuning-pipeline)          --> Memory-efficient fine-tuning (HuggingFace + PEFT/LoRA).
+📁 [ai-red-teaming-framework](https://github.com/Muhammad08-dot/ai-red-teaming-framework)         --> Autonomous LLM security & robustness testing.
+📁 [on-device-private-ai-assistant](https://github.com/Muhammad08-dot/on-device-private-ai-assistant)   --> 100% offline privacy-first AI with local LLMs.
 ```
 
 ### 🚀 Production AI Applications `[12 repos]`
 ```bash
-📁 khidmat_app                      --> Pakistan's AI economy platform (7-agent Gemini system).
-📁 Medora_AI                        --> Bilingual Hospital LMS with Gemini 2.5 AI briefs.
-📁 kisan-sahayak-ai                 --> Multilingual AI Advisor for Crop Disease & Irrigation.
+📁 [khidmat_app](https://github.com/Muhammad08-dot/khidmat_app)                      --> Pakistan's AI economy platform (7-agent Gemini system).
+📁 [Medora_AI](https://github.com/Muhammad08-dot/Medora_AI)                        --> Bilingual Hospital LMS with Gemini 2.5 AI briefs.
+📁 [kisan-sahayak-ai](https://github.com/Muhammad08-dot/kisan-sahayak-ai)                 --> Multilingual AI Advisor for Crop Disease & Irrigation.
 ```
 
 ### 🎙️ Voice, Vision & Multimodal AI `[9 repos]`
 ```bash
-📁 omni-agent                       --> Voice-controlled Desktop Assistant (Push-to-Talk).
-📁 ai_blog_to_podcast_agent         --> Blog-to-Podcast via Gemini 2.5 + ElevenLabs.
-📁 missing-person-finder            --> Facial Recognition & Vector Search across CCTV.
+📁 [omni-agent](https://github.com/Muhammad08-dot/omni-agent)                       --> Voice-controlled Desktop Assistant (Push-to-Talk).
+📁 [ai_blog_to_podcast_agent](https://github.com/Muhammad08-dot/ai_blog_to_podcast_agent)         --> Blog-to-Podcast via Gemini 2.5 + ElevenLabs.
+📁 [missing-person-finder](https://github.com/Muhammad08-dot/missing-person-finder)            --> Facial Recognition & Vector Search across CCTV.
 ```
 
 ### 📊 Machine Learning & Data Science `[10 repos]`
 ```bash
-📁 predictive-maintenance-ml        --> Random Forest on IoT sensor data.
-📁 federated-learning-simulation    --> Privacy-preserving ML with PyTorch.
-📁 rl-stock-trader                  --> Deep RL stock trader (Ray RLlib + PyTorch).
+📁 [predictive-maintenance-ml](https://github.com/Muhammad08-dot/predictive-maintenance-ml)        --> Random Forest on IoT sensor data.
+📁 [federated-learning-simulation](https://github.com/Muhammad08-dot/federated-learning-simulation)    --> Privacy-preserving ML with PyTorch.
+📁 [rl-stock-trader](https://github.com/Muhammad08-dot/rl-stock-trader)                  --> Deep RL stock trader (Ray RLlib + PyTorch).
 ```
 
 ### 🌐 Full-Stack & Frontend `[4 repos]`
 ```bash
-📁 personal_portfolio_              --> AI Engineer portfolio (React 19 + Three.js).
-📁 nextjs-saas-dashboard            --> Premium SaaS dashboard (Next.js + TailwindCSS).
+📁 [personal_portfolio_](https://github.com/Muhammad08-dot/personal_portfolio_)              --> AI Engineer portfolio (React 19 + Three.js).
+📁 [nextjs-saas-dashboard](https://github.com/Muhammad08-dot/nextjs-saas-dashboard)            --> Premium SaaS dashboard (Next.js + TailwindCSS).
 ```
 
 ### 🌍 Open Source Contributions `[27 repos]`
 ```bash
-📁 pytorch                          --> Core deep learning framework by Meta.
-📁 supabase-py                      --> Python client for Supabase.
-📁 optuna                           --> Hyperparameter optimization framework.
+📁 [pytorch](https://github.com/Muhammad08-dot/pytorch)                          --> Core deep learning framework by Meta.
+📁 [supabase-py](https://github.com/Muhammad08-dot/supabase-py)                      --> Python client for Supabase.
+📁 [optuna](https://github.com/Muhammad08-dot/optuna)                           --> Hyperparameter optimization framework.
 ```
 
 ```bash
@@ -162,9 +162,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
   </picture>
 </div>
 

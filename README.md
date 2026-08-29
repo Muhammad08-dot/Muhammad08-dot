@@ -1,29 +1,24 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!-- Animated Boot Sequence -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+SYSTEM+BOOTING...;%3E+LOADING+MODULES...;%3E+M.A.R+ONLINE+%5B+OK+%5D;%3E+WELCOME%2C+USER!&font=VT323&center=true&width=900&height=80&color=39FF14&vCenter=true&size=45&pause=800">
-</p>
-
-<!-- Animated ASCII "M A R" Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=M+.+A+.+R;M.A.R+%3E+MUHAMMAD+ABDULLAH+RAMDAY;%3E+SYSTEM+READY_&font=VT323&center=true&width=900&height=100&color=39FF14&vCenter=true&size=55&pause=1500">
-</p>
-
 <div align="center">
-<h1>AoA! hi there</h1>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║     >> SYSTEM BOOTING... [ V2.0.0 ]                                  ║
+║     >> LOADING USER PROFILE...                                       ║
+║     >> STATUS: ACTIVE [ OK ]                                         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-<!-- Typing Animation (Retro Terminal Font) -->
+<!-- Animated Name Typing (Retro Terminal Font) -->
 <p align="center">
   <a href="https://github.com/Muhammad08-dot">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%3E+Machine+Learning+Engineer_;%3E+AI+%26+Agentic+Systems_;%3E+RAG+Architecture+Specialist_;%3E+LLM+%26+Generative+AI_;%3E+Always+Learning%2C+Always+Building_&font=VT323&center=true&width=1000&height=100&color=39FF14&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%3E+MUHAMMAD+ABDULLAH+RAMDAY_;%3E+Machine+Learning+Engineer_;%3E+AI+%26+Agentic+Systems+Specialist_;%3E+RAG+Architecture+Specialist_;%3E+Always+Learning%2C+Always+Building_&font=VT323&center=true&width=1000&height=120&color=39FF14&vCenter=true&size=42&pause=1000">
   </a>
 </p>
 

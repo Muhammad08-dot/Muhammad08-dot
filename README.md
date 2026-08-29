@@ -1,21 +1,17 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<div align="center">
+<!-- Animated Boot Sequence -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+SYSTEM+BOOTING...;%3E+LOADING+MODULES...;%3E+M.A.R+ONLINE+%5B+OK+%5D;%3E+WELCOME%2C+USER!&font=VT323&center=true&width=900&height=80&color=39FF14&vCenter=true&size=45&pause=800">
+</p>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║     ███╗   ███╗    █████╗     ██████╗                                ║
-║     ████╗ ████║   ██╔══██╗    ██╔══██╗                               ║
-║     ██╔████╔██║   ███████║    ██████╔╝                               ║
-║     ██║╚██╔╝██║   ██╔══██║    ██╔══██╗                               ║
-║     ██║ ╚═╝ ██║ ██╗██║  ██║ ██╗██║  ██║                              ║
-║     ╚═╝     ╚═╝ ╚═╝╚═╝  ╚═╝ ╚═╝╚═╝  ╚═╝                              ║
-║                                                                      ║
-║              >> SYSTEM BOOTING... [ V2.0.0 ] OK <<                   ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<!-- Animated ASCII "M A R" Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=M+.+A+.+R;M.A.R+%3E+MUHAMMAD+ABDULLAH+RAMDAY;%3E+SYSTEM+READY_&font=VT323&center=true&width=900&height=100&color=39FF14&vCenter=true&size=55&pause=1500">
+</p>
+
+<div align="center">
 
 <h1>AoA! I'm Muhammad Abdullah</h1>
 <h3>A Passionate AI/ML Engineer & Agentic AI Specialist from Pakistan 🇵🇰</h3>

@@ -90,6 +90,8 @@
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
 
+### 🚀 DevOps & Version Control:
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" width="220" />
 </div>
 ---
 

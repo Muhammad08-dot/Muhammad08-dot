@@ -157,14 +157,13 @@
 </p>
 
 ---
-
 ## 📊 `> ./pacman_activity.sh --run`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Muhammad08-dot/Muhammad08-dot/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/EimanTahir027/EimanTahir027/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
   </picture>
 </div>
 

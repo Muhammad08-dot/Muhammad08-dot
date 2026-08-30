@@ -172,14 +172,10 @@
 
 ## `> C:\Users\Abdullah> cat current_focus.txt`
 
-```yaml
 Expertise:      Production-ready AI workflows & Agentic AI systems for scalable SaaS
 Development:    Intelligent automation systems & advanced ML & RAG architectures
 Focus:          LangGraph, LangChain & CrewAI powered solutions
 Collaboration:  Open to high-impact AI collabs, startup MVP scaling & Open-Source
-```
-
----
 
 ## `> C:\Users\Abdullah> ./connect.sh`
 

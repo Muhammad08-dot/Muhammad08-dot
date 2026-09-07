@@ -74,9 +74,11 @@
 
 ### 🔧 Tools & Intelligent Automation:
 <p align="center">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" width="42" alt="n8n" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" width="42" alt="Streamlit" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" height="45" alt="Tools" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Qwen%20Coder-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen Coder" />
+  <img src="https://img.shields.io/badge/Antigravity%20IDE-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Antigravity IDE" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 </div>

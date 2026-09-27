@@ -52,7 +52,6 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" height="45" width="45" alt="TypeScript" /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="45" width="45" alt="C++" /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/java-icon.svg" height="45" width="45" alt="Java" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="Dart" />
 </p>
 
 ### 🤖 AI & Machine Learning:

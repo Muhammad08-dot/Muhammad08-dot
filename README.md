@@ -83,7 +83,6 @@
   <img src="https://img.shields.io/badge/Qwen%20Coder-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen Coder" />
   <img src="https://img.shields.io/badge/Antigravity%20IDE-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Antigravity IDE" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 </div>

@@ -179,9 +179,6 @@ Collaboration:  Open to high-impact AI collabs, startup MVP scaling & Open-Sourc
 <a href="https://www.instagram.com/m.abdullah_ramday08/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a> &nbsp;
-<a href="https://github.com/Muhammad08-dot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a> &nbsp;
 <a href="https://muhammad08.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
